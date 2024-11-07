@@ -128,7 +128,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105155058938",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:50:58.938Z",
-	"dcterms:modified": "2024-11-05T20:50:58.938Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -155,7 +154,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105155058938#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -207,7 +206,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105155302725",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:53:02.725Z",
-	"dcterms:modified": "2024-11-05T20:53:02.725Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -234,7 +232,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105155302725#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[3]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -288,7 +286,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105160031841",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:00:31.841Z",
-	"dcterms:modified": "2024-11-05T21:00:31.841Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -315,7 +312,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105160031841#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -367,7 +364,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105160154110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:01:54.110Z",
-	"dcterms:modified": "2024-11-05T21:01:54.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -394,7 +390,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105160154110#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[5]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -448,7 +444,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105161207654",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:12:07.654Z",
-	"dcterms:modified": "2024-11-05T21:12:07.654Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -475,7 +470,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241105161207654#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[6]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -528,7 +523,6 @@
 	"id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241107150630750",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T20:06:30.750Z",
-	"dcterms:modified": "2024-11-07T20:06:30.750Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kylejohnson25",
 		"@type": [
@@ -555,7 +549,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241107150630750#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[7]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -636,7 +630,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241107151847959#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[8]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -717,7 +711,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kylejohnson25/LEAF/main/LEAF%20Files%20for%20Students/9-England.xml?place_annotation_20241107151924359#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[9]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -741,7 +735,7 @@
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/9-England-Ort-1.jpg"/>
 			<div>
 				<head>                                              ENGLAND</head>
-				<p>The whole Ile of Albion called aſo <placeName key="Britannia" ref="http://www.wikidata.org/entity/Q3240725" cert="medium">Britannie<precision match="@ref" precision="high"/></placeName> beeing the greateſt Ile of this parte of the world, is at this day by two ſeueral names called <placeName key="Kingdom of England" ref="http://www.wikidata.org/entity/Q179876">England</placeName> and <placeName key="Kingdom of Scotland" ref="http://www.wikidata.org/entity/Q230791" cert="medium">Scotland<precision match="@ref" precision="high"/></placeName>, becauſe it contayneth thoſe two kingdomes. The Meridional greateſt &amp; beſt parte thereof is called <placeName key="England" ref="http://dbpedia.org/resource/England">England</placeName> of Engliſhmen (ſomtyme a people of <placeName key="Germany" ref="http://www.wikidata.org/entity/Q183" cert="medium">Germanie<precision match="@ref" precision="medium"/></placeName>) whoſ offpring doth ſtil poſſeſſe the ſame vnder their owne King. It contayneth together with the country of <placeName key="Wales" ref="http://www.wikidata.org/entity/Q25">wales<precision match="@ref" precision="high"/></placeName>, 52 Shyres, 29 Cities and 25 Biſhoprykes. On the eaſt ſyde it hath the Germaine Ocean, On the weſt the <placeName key="Irish Sea" ref="http://www.wikidata.org/entity/Q41735" cert="high">Iriſh ſea<precision match="@ref" precision="medium"/></placeName>. On the ſouth the narrow ſeas which deuyde it from <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="medium"/></placeName>. And on the north it is ſeperated from <placeName key="Kingdom of Scotland" ref="http://www.wikidata.org/entity/Q230791" cert="medium">Scotland</placeName> by the riuer of Twwede &amp; the Cheuiot hilles.It aboundeth chiefly in cattel, for which cauſe the inhabitants are more giuen to graſing then to tillage of the ground, deſyring rather than paſture then corne land. This region is very temperate, and withour great extremitie of cold. The ſoile is exceeding frutefull, howbeit it yeildeth not wyne. There are many hilles, which beeing without trees do yeild a kynde of ſhorte and ſweete gras for the beſt nowriſhing of ſheepe, which are heere in all aboundance, and whoſe fyne fleeces do excel thoſe of other countries, which is cauſed either by the temperature of the ayre, or the goodnes of the paſture. This fyne engliſh wooll, may wel be calleth the Golden fleece, for that thereby ſo great plenty of gold and ſiluer from ſo many &amp; ſo remote regions of the world is brought into this Realme. Here are alſo great ſtore of mynes of Tinne, Lead, &amp; Iron, as alſo of Copper, neither are the mynes voyd of Gold and Siluer. In brief En-gland aboundeth with plenty of all ſortes of vi()uals, &amp; is furniſhed with all ſtore of thinges neceſſary for the vſe of man.</p></div>
+				<p>The whole Ile of Albion called aſo <placeName key="Britannia" ref="http://www.wikidata.org/entity/Q3240725" cert="medium">Britannie<precision match="@ref" precision="high"/></placeName> beeing the greateſt Ile of</p><p>this parte</p><p> of the world, is at this day by two ſeueral names called <placeName key="Kingdom of England" ref="http://www.wikidata.org/entity/Q179876">England</placeName> and <placeName key="Kingdom of Scotland" ref="http://www.wikidata.org/entity/Q230791" cert="medium">Scotland<precision match="@ref" precision="high"/></placeName>, becauſe it contayneth thoſe two kingdomes. The Meridional greateſt &amp; beſt parte thereof is called <placeName key="England" ref="http://dbpedia.org/resource/England">England</placeName> of Engliſhmen (ſomtyme a people of <placeName key="Germany" ref="http://www.wikidata.org/entity/Q183" cert="medium">Germanie<precision match="@ref" precision="medium"/></placeName>) whoſ offpring doth ſtil poſſeſſe the ſame vnder their owne King. It contayneth together with the country of <placeName key="Wales" ref="http://www.wikidata.org/entity/Q25">wales<precision match="@ref" precision="high"/></placeName>, 52 Shyres, 29 Cities and 25 Biſhoprykes. On the eaſt ſyde it hath the Germaine Ocean, On the weſt the <placeName key="Irish Sea" ref="http://www.wikidata.org/entity/Q41735" cert="high">Iriſh ſea<precision match="@ref" precision="medium"/></placeName>. On the ſouth the narrow ſeas which deuyde it from <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="medium"/></placeName>. And on the north it is ſeperated from <placeName key="Kingdom of Scotland" ref="http://www.wikidata.org/entity/Q230791" cert="medium">Scotland</placeName> by the riuer of Twwede &amp; the Cheuiot hilles.It aboundeth chiefly in cattel, for which cauſe the inhabitants are more giuen to graſing then to tillage of the ground, deſyring rather than paſture then corne land. This region is very temperate, and withour great extremitie of cold. The ſoile is exceeding frutefull, howbeit it yeildeth not wyne. There are many hilles, which beeing without trees do yeild a kynde of ſhorte and ſweete gras for the beſt nowriſhing of ſheepe, which are heere in all aboundance, and whoſe fyne fleeces do excel thoſe of other countries, which is cauſed either by the temperature of the ayre, or the goodnes of the paſture. This fyne engliſh wooll, may wel be calleth the Golden fleece, for that thereby ſo great plenty of gold and ſiluer from ſo many &amp; ſo remote regions of the world is brought into this Realme. Here are alſo great ſtore of mynes of Tinne, Lead, &amp; Iron, as alſo of Copper, neither are the mynes voyd of Gold and Siluer. In brief En-gland aboundeth with plenty of all ſortes of vi()uals, &amp; is furniſhed with all ſtore of thinges neceſſary for the vſe of man.</p></div>
 		</body>
 	</text>
 </TEI>
